@@ -53,3 +53,15 @@ div {
     display: inline-block;
     width: 33%;
 }
+
+span {
+    font-size: 60px;
+}
+
+body section:last-child {
+    margin-top: 30px;
+}
+
+img[alt="Laboratoria"] {
+    width: 150px;
+}
