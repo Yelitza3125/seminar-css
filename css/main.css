@@ -59,9 +59,20 @@ span {
 }
 
 body section:last-child {
-    margin-top: 30px;
+    margin: 30px 50px 0 60px;
 }
 
-img[alt="Laboratoria"] {
-    width: 150px;
+/*Selector de atributo*/
+img[alt="Laboratoria"] { 
+    width: 120px;
 }
+
+button {
+    background-color: #f9a91a;
+    padding: 10px;
+    border: 0;
+    color: #fff;
+    border-radius: 5%;
+    font-weight: 600;
+}
+
