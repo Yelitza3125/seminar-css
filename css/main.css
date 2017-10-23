@@ -76,3 +76,10 @@ button {
     font-weight: 600;
 }
 
+.box-header ul li {
+margin: 0 20px;
+}
+
+span:hover, .box-header ul li:hover {
+    color: #f9a91a;
+}
